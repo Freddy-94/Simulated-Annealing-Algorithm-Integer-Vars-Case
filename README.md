@@ -31,7 +31,7 @@ In order to adjust our previous algorithm, we implement 3 different "mutation" o
 
 The program needs a configuration file that needs to be passed in the terminal. The data in this file consists of the flux and distance matrices. Now, if for example, this config file is called "tai15.dat", then, you only need to locate in the directory where the QAP module and the mentioned config file is located, and run the command: 
 
-           python QAP.py < tai15.dat
+           python QAP.py < tai9.dat
 
 ## Relevant functions:
 
